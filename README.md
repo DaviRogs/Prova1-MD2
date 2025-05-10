@@ -36,7 +36,7 @@ O programa solicitará os seguintes valores:
 2. x (expoente).
 3. n₁ (módulo final).
 
-Exemplo de entrada:
+### Exemplo de entrada:
 
 ```bash
 Digite os valores de H, G e n: 38 79 252  
